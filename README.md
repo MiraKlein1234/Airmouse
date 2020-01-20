@@ -1,4 +1,4 @@
-# Airmouse
+# Airmouse - projekt MPOA by Miroslav Klein
 
 **Zadání:** S využitím senzorů vývojové desky FRDM-FXS-MULTI-B realizujte tzv. Air mouse. Zařízení bude do PC připojeno jako HID myš a bude pohybovat kurzorem myši na základě údajů ze senzorů orientace a zrychlení. 
 
@@ -13,3 +13,7 @@
 
 
 Soubory projektu, včetně knihoven a hlavního programu lze nalézt na https://os.mbed.com/users/miroslavklein/code/Airmouse_MPOA/
+
+Video demonstrující funkci programu lze nalézt na https://uloz.to/file/wFyZZZPO8BY2/airmouse-video-mp4 *
+
+*poznámka k videu: omlouvám se za kvalitu, natáčení pouze za pomoci dvou končetin bylo obtížné
