@@ -12,7 +12,7 @@
  Pro určování náklonu v jednotlivých úsách je využit čip  FXOS8700Q na desce RDM-FXS-MULTI2-B. jedná se o kombinaci akcelerometru a magnetometru. Pro pohyb myší v ose Y jsou využívány udaje z osy X akcelerometru. Vychýlení desky z vodorovné polohy způsobuje pohyb myši nahoru nebo dolů. Pro pohyb myši v ose X jsou dle stejného principu využívány údaje z osy Y akcelerometru. Bylo by vhodnější použít údaje z magnetometru, ty se však nepovedlo vhodně zpracovat aby byl pohyb kurzoru přijatelný.
 
 
-Soubory projektu, včetně knihoven a hlavního programu lze nalézt na https://os.mbed.com/users/miroslavklein/code/Airmouse_MPOA/
+Soubory projektu mbed lze nalézt na https://os.mbed.com/users/miroslavklein/code/Airmouse_MPOA/
 
 Video demonstrující funkci programu lze nalézt na https://uloz.to/file/wFyZZZPO8BY2/airmouse-video-mp4 *
 
